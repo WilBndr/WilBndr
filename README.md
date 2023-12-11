@@ -75,6 +75,22 @@ Enfin, mes compétences en communication et en web design me permettent de conce
 Qui suis je ​​🛰️​
 -
 
+#### Parcours 
+J'ai suivi une formation générale avec la spécialité mathématique ainsi qu'informatique au Lycée Georges Cabanis  (6 bd Henri de Jouvenel, 19100 Brive la Gaillarde). A la fin de laquelle j'ai obtenu mon baccalauréat avec la mention bien.
+
+Ensuite j'ai effectué un BUT informatique, je suis toujours cette formation. Elle me permet aujourd'hui d'avoir une connaissance du code et de la qualité de code extrêmement approfondis.
+
+#### Valeur
+Je suis convaincu que mes qualités personnelles et mes valeurs sont en adéquation avec les valeurs que souhaite une entreprise. Je suis un travailleur acharné et déterminé à atteindre les objectifs fixés. 
+
+Ensuite je place une grande importance sur l'intégrité et l'excellence. Je suis convaincu que ces valeurs sont fondamentales pour la réussite d'un projet et je suis prêt à les défendre à tout moment.
+
+#### Qualité
+
+Je suis une personne communicative et collaborante, ce qui est essentiel pour travailler efficacement en équipe. Je suis également très flexible et capable de m'adapter aux changements rapides et aux situations imprévues, ce qui est souvent le cas dans un environnement spatial.
+
+Enfin, je suis une personne passionnée et enthousiaste qui est toujours prête à apprendre de nouvelles choses et à découvrir de nouveaux horizons.
+
 Mes différents projets ​​👷​
 -
 
