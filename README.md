@@ -1,7 +1,7 @@
 
 ---
  # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender
- -  ### Vue d'enssemble [link](#heading-id) 🌍​
+ -  ### Vue d'enssemble 🌍​
  -  ### Objectif 🔭​
  -  ### Compétences 📖​
  -  ### Qui suis je ​​🛰️​
@@ -9,55 +9,25 @@
 ---
 > Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Vue d'enssemble <Link to="#heading-id">lien</Link> 
+Vue d'enssemble 🌍​
 -
-ABC
+<u> Profil proffessionel <u/>
+
+    Je suis un développeur informatique je connais de nombreux langage informatique en manipulation de donnée, développement d'application ainsi que développement de site web mais aussi les langage d'administration ce qui me permet d'être polyvalent.
+
+Objectif 🔭​
+-
+
+Compétences 📖​
+-
 
 
+Qui suis je ​​🛰️​
+-
 
+Mes différents projets ​​👷​
+-
 
-
-
-### Test h3
-
-### Test h4
-
-### Test h5
-
-
-
-
--   👋 Hi, I’m @WilBndr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-> Bonjour, je suis un paragraphe de texte englobé dans un bloc de citation. Regardez comment je suis décalé par rapport à la marge gauche.
 
 ```html
 <html>
@@ -71,7 +41,6 @@ ABC
 
 Pour accéder à davantage de tutoriels, merci de visiter la page d'accueil du [Programming Historian](/ "Programming Historian main page").
 
-![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Logo de Wikipedia")
 
 
 | En-tête 1                   | En-tête 2                   | En-tête 3                   |
