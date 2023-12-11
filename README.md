@@ -7,13 +7,26 @@
  -  ### Qui suis je ​​🛰️​
  -  ### Mes différents projets ​​👷​
 ---
-> Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences. 
+> Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences.
 
 Vue d'enssemble 🌍​
 -
-<u> Profil proffessionel <u/>
+#### Profil proffessionel
+---
+Je suis un développeur informatique je connais de nombreux langage informatique en manipulation de donnée, développement d'application ainsi que développement de site web mais aussi les langage d'administration ce qui me permet d'être polyvalent.  
 
-    Je suis un développeur informatique je connais de nombreux langage informatique en manipulation de donnée, développement d'application ainsi que développement de site web mais aussi les langage d'administration ce qui me permet d'être polyvalent.
+#### D'omaine d'expertise
+---
+- Développement d'application
+- Graphisme numérique 
+- Recherche 
+- Communication 
+- Web Design
+- Maintenance site web et réseaux
+> J'approfondirais mes domaines d'expertise dans la partie dédier (exemples) 
+
+#### Parcour scolaire/Personalité
+
 
 Objectif 🔭​
 -
