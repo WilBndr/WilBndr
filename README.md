@@ -1,4 +1,4 @@
-
+> Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences.
 ---
  # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender
  -  ### Vue d'enssemble 🌍​
@@ -6,8 +6,6 @@
  -  ### Compétences 📖​
  -  ### Qui suis je ​​🛰️​
  -  ### Mes différents projets ​​👷​
----
-> Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences.
 
 Vue d'enssemble 🌍​
 -
