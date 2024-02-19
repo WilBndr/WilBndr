@@ -1,6 +1,6 @@
 > Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences.
 ---
- # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender
+ # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender [![Cliquez ici](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willem-boender-24a6622b5/)
  -  ### Vue d'enssemble 🌍​
  -  ### Objectif 🔭​
  -  ### Compétences 📖​
@@ -15,9 +15,6 @@ Vue d'enssemble 🌍​
 Profil proffessionel
 
 Je suis un développeur informatique je connais de nombreux langage informatique en manipulation de donnée, développement d'application ainsi que développement de site web mais aussi les langage d'administration ce qui me permet d'être polyvalent.  
-
-[![Cliquez ici](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willem-boender-24a6622b5/)
-
 
 #### D'omaine d'expertise
 
