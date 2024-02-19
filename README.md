@@ -39,10 +39,25 @@ Objectif 🔭​
 -
 
 #### Objectifs professionnels
-> A rédiger
+
+Développer des compétences polyvalentes : Je vise à acquérir une expertise dans différents domaines du développement informatique, y compris le développement web, mobile, logiciel, et l'intelligence artificielle, afin d'être capable de m'adapter aux besoins changeants du marché.
+
+Maîtriser les langages de programmation : J'aime et je perfectionne mes compétences dans un large éventail de langages de programmation tels que Python, JavaScript, Java, C++, et d'autres, afin d'être capable de contribuer efficacement à divers projets de développement.
+
+Comprendre les frameworks et les technologies émergentes : Je cherche à explorer et à comprendre en profondeur les frameworks et les technologies émergentes dans le domaine du développement, tels que React, Angular, Node.js, Django, Flask, Docker, Kubernetes, etc., pour rester à jour avec les meilleures pratiques de développement.
+
+Développer des compétences en résolution de problèmes : Je souhaite améliorer ma capacité à résoudre des problèmes complexes de manière efficace et innovante en utilisant des algorithmes et des structures de données appropriés, et en appliquant des méthodologies de développement Agile.
 
 #### Objectifs personnels
-> A rédiger
+
+Équilibre vie professionnelle-vie personnelle : Je m'engage à maintenir un équilibre sain entre ma vie professionnelle et ma vie personnelle afin de préserver mon bien-être physique et mental, et de nourrir mes relations familiales et sociales.
+
+Développer des compétences de leadership : En parallèle de mes objectifs professionnels, je souhaite également développer mes compétences en leadership en prenant des initiatives, en encadrant d'autres étudiants, et en assumant des responsabilités au sein de projets et d'organisations estudiantines.
+
+Cultiver la curiosité intellectuelle : En dehors de mes études et de ma carrière professionnelle, je suis déterminé à cultiver ma curiosité intellectuelle en explorant des sujets variés, en lisant des livres, en écoutant des podcasts et en participant à des activités culturelles pour enrichir mon esprit et ma perspective sur le monde.
+
+Donner en retour à la communauté : Je suis motivé à contribuer au bien-être de la société en consacrant du temps et de l'énergie à des projets bénévoles et des initiatives sociales qui ont un impact positif sur ma communauté locale et mondiale.
+
 ---
 
 Compétences 📖​
@@ -93,6 +108,7 @@ Enfin, je suis une personne passionnée et enthousiaste qui est toujours prête 
 
 Mes différents projets ​​👷​
 -
+> Ca charge ...
 
 
 ```html
