@@ -16,17 +16,8 @@ Profil proffessionel
 
 Je suis un développeur informatique je connais de nombreux langage informatique en manipulation de donnée, développement d'application ainsi que développement de site web mais aussi les langage d'administration ce qui me permet d'être polyvalent.  
 
-<button style="background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 10px;">Cliquez ici</button>
+[![Cliquez ici](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willem-boender-24a6622b5/)
+
 
 #### D'omaine d'expertise
 
