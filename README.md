@@ -107,6 +107,15 @@ Je suis une personne communicative et collaborante, ce qui est essentiel pour tr
 Enfin, je suis une personne passionnée et enthousiaste qui est toujours prête à apprendre de nouvelles choses et à découvrir de nouveaux horizons.
 
 Mes différents projets ​​👷​
+
+#### Projet personnel
+
+
+
+#### Projet d'étude
+
+
+
 -
 > Ca charge ...
 
