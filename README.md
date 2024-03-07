@@ -111,6 +111,8 @@ Mes différents projets ​​👷​
 
 #### Projet personnel
 
+Titre du projet : Gestionnaire de tâches et de projets
+
 Description :
 Ce projet consiste à développer une application de gestion de tâches et de projets pour aider les utilisateurs à organiser efficacement leurs tâches quotidiennes ainsi que les projets sur lesquels ils travaillent. L'application doit permettre aux utilisateurs de créer des listes de tâches, d'assigner des deadlines, de suivre les progrès, et de visualiser les tâches sous forme de tableau de bord intuitif.
 
