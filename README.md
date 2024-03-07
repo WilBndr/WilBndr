@@ -140,25 +140,27 @@ Titre du projet : Le jeu du verger
     <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/1696a64b-67f9-4e58-be5e-923bf9258d34" width="500"/>
     <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/04867d5d-9c38-4933-a82f-d1b2439cdb4d" width="500"/>
 </div>
+
 <br><br/>
+
 Fonctionnalités principales :
+- Plateau de jeu interactif : Créer une représentation graphique du plateau de jeu en utilisant JavaFX, où les joueurs pourront interagir.
+- Gestion des fruits : Implémenter la mécanique de collecte des fruits par les joueurs à partir des différents arbres du verger, avec des animations graphiques pour représenter cette action.
+- Mouvements du corbeau : Programmer le mouvement du corbeau en utilisant JavaFX pour qu'il menace de manger les fruits, avec des animations pour le déplacement du corbeau.
+- Déroulement du jeu : Gérer le déroulement des tours de jeu en utilisant JavaFX pour afficher les informations nécessaires aux joueurs, comme le lancer de dé et le déplacement des pièces.
+- Conditions de victoire/défaite : Établir les conditions pour déterminer quand les joueurs gagnent ou perdent la partie, avec des animations graphiques pour indiquer le résultat.
+- Interface utilisateur : Concevoir une interface utilisateur conviviale et attrayante en utilisant JavaFX pour faciliter la jouabilité du jeu, avec des animations et des effets visuels pour améliorer l'expérience utilisateur.
 
-Plateau de jeu interactif : Créer une représentation graphique du plateau de jeu en utilisant JavaFX, où les joueurs pourront interagir.
-Gestion des fruits : Implémenter la mécanique de collecte des fruits par les joueurs à partir des différents arbres du verger, avec des animations graphiques pour représenter cette action.
-Mouvements du corbeau : Programmer le mouvement du corbeau en utilisant JavaFX pour qu'il menace de manger les fruits, avec des animations pour le déplacement du corbeau.
-Déroulement du jeu : Gérer le déroulement des tours de jeu en utilisant JavaFX pour afficher les informations nécessaires aux joueurs, comme le lancer de dé et le déplacement des pièces.
-Conditions de victoire/défaite : Établir les conditions pour déterminer quand les joueurs gagnent ou perdent la partie, avec des animations graphiques pour indiquer le résultat.
-Interface utilisateur : Concevoir une interface utilisateur conviviale et attrayante en utilisant JavaFX pour faciliter la jouabilité du jeu, avec des animations et des effets visuels pour améliorer l'expérience utilisateur.
 Technologies utilisées :
+- Java : Utilisation du langage de programmation Java pour le développement du jeu.
+- JavaFX : Utilisation de la bibliothèque JavaFX pour la création des graphismes et de l'interface utilisateur.
+- Gestion des événements : Programmation des interactions utilisateur en utilisant JavaFX pour gérer les événements graphiques.
 
-Java : Utilisation du langage de programmation Java pour le développement du jeu.
-JavaFX : Utilisation de la bibliothèque JavaFX pour la création des graphismes et de l'interface utilisateur.
-Gestion des événements : Programmation des interactions utilisateur en utilisant JavaFX pour gérer les événements graphiques.
 Objectifs du projet :
+- Fidélité au jeu original : Assurer que la version numérique du jeu reste fidèle aux règles et aux mécanismes du jeu de société original.
+- Expérience utilisateur : Offrir une expérience utilisateur fluide et intuitive, avec des graphismes attrayants et une jouabilité immersive grâce à JavaFX.
+- Test et débogage : Effectuer des tests rigoureux et corriger les bogues pour garantir un fonctionnement optimal du jeu.
 
-Fidélité au jeu original : Assurer que la version numérique du jeu reste fidèle aux règles et aux mécanismes du jeu de société original.
-Expérience utilisateur : Offrir une expérience utilisateur fluide et intuitive, avec des graphismes attrayants et une jouabilité immersive grâce à JavaFX.
-Test et débogage : Effectuer des tests rigoureux et corriger les bogues pour garantir un fonctionnement optimal du jeu.
 Conclusion :
 Le développement du Jeu du Verger en Java avec JavaFX offre une opportunité d'explorer les concepts de programmation orientée objet, de gestion d'interface utilisateur et de logique de jeu tout en recréant un jeu de société classique de manière numérique et interactive avec des graphismes modernes et attrayants grâce à JavaFX.
 
