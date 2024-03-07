@@ -137,8 +137,8 @@ Authentification : JWT (JSON Web Tokens) pour la gestion de l'authentification d
 Titre du projet : Le jeu du verger
 
 <div display="inline-block">
-    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/1696a64b-67f9-4e58-be5e-923bf9258d34" width="600"/>
-    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/04867d5d-9c38-4933-a82f-d1b2439cdb4d" width="600"/>
+    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/1696a64b-67f9-4e58-be5e-923bf9258d34" width="500"/>
+    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/04867d5d-9c38-4933-a82f-d1b2439cdb4d" width="500"/>
 
 </div>
 
