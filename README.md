@@ -164,33 +164,5 @@ Objectifs du projet :
 Conclusion :
 Le développement du Jeu du Verger en Java avec JavaFX offre une opportunité d'explorer les concepts de programmation orientée objet, de gestion d'interface utilisateur et de logique de jeu tout en recréant un jeu de société classique de manière numérique et interactive avec des graphismes modernes et attrayants grâce à JavaFX.
 
-
-
 -
-> Ca charge ...
-
-
-```html
-<html>
-    <head>
-        <title>Titre de site web</title>
-    </head>
-    <body>
-    </body>
-</html>
-```
-
-Pour accéder à davantage de tutoriels, merci de visiter la page d'accueil du [Programming Historian](/ "Programming Historian main page").
-
-
-
-| En-tête 1                   | En-tête 2                   | En-tête 3                   |
-| --------------------------- | --------------------------- | --------------------------- |
-| Ligne 1, colonne 1 | Ligne 1, colonne 2 | Ligne 1, colonne 3  |
-| Ligne 2, colonne 1 | Ligne 2, colonne 2 | Ligne 2, colonne 3  |
-| Ligne 3, colonne 1 | Ligne 3, colonne 2 | Ligne 3, colonne 3  |
-
-<!---
-WilBndr/WilBndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Je tiens à exprimer ma sincère gratitude à tous les visiteurs de mon portfolio. Votre intérêt et votre soutien sont une source d'inspiration constante. Merci d'avoir pris le temps de découvrir mes projets et réalisations. Votre présence ici est grandement appréciée.
