@@ -118,7 +118,7 @@ Ce projet consiste à développer une application de gestion de tâches et de pr
 
 Fonctionnalités principales :
 
-Authentification des utilisateurs : Permettre aux utilisateurs de créer un compte et de se connecter de manière sécurisée.
+- Authentification des utilisateurs : Permettre aux utilisateurs de créer un compte et de se connecter de manière sécurisée.
 Création de tâches et de projets : Permettre aux utilisateurs de créer, modifier et supprimer des tâches et des projets.
 Attribution des tâches : Permettre aux utilisateurs de assigner des tâches à eux-mêmes ou à d'autres membres de l'équipe.
 Suivi des progrès : Afficher le statut actuel des tâches et des projets, ainsi que les progrès réalisés.
