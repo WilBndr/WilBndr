@@ -1,6 +1,6 @@
 > Bienvenue sur mon portfolio, où je vous invite à explorer l'univers de mes divers projets informatiques. Je suis passionné par la création et l'innovation dans le domaine de l'informatique, et je suis ravi de partager avec vous une collection de réalisations qui reflètent mon parcours et mes compétences.
 ---
- # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender [![Cliquez ici](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willem-boender-24a6622b5/) [![Voir mon CV](https://img.shields.io/badge/CV-Télécharger-53950F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/WilBndr/cv_doc_recrutment/raw/main/ATS_CV.pdf)
+ # <img  class="image" src="https://i1.sndcdn.com/artworks-7zewNwgndPzFIVug-6Wy4XA-t500x500.jpg" alt="Logo" width="30"/> Portfolio Willem Boender [![Cliquez ici](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/willem-boender-24a6622b5/) [![Voir mon CV](https://img.shields.io/badge/CV-Télécharger-53950F)](https://github.com/WilBndr/cv_doc_recrutment/raw/main/ATS_CV.pdf)
 
  -  ### Vue d'enssemble 🌍​
  -  ### Objectif 🔭​
