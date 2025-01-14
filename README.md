@@ -63,9 +63,6 @@ Donner en retour à la communauté : Je suis motivé à contribuer au bien-être
 
 Compétences 📖​
 -
-
-# Compétences Techniques et Soft Skills
-
 ## Compétences Techniques
 
 ### 1. Développement multi-supports (embarqué, web, mobile, IoT…)
@@ -113,11 +110,8 @@ Compétences 📖​
 #### Gestion de projet :
 - **Méthodes classiques** :
   - Cycle en V
-  - Modèle en cascade (Waterfall)
 - **Méthodes agiles** :
   - Scrum (avec outils comme Jira, Trello)
-  - Kanban
-  - Extreme Programming (XP)
 
 #### Outils collaboratifs :
 - **Git** : gestion de versions, GitHub/GitLab pour collaboration
@@ -142,7 +136,7 @@ Compétences 📖​
 - **Adaptabilité** : flexibilité pour gérer différents projets et technologies
 
 
-#### Rappel de mes domaines d'expertise/de compétence
+### Rappel de mes domaines d'expertise/de compétence
 
 Mes domaines d'expertise sont variée et m'on permis a de nombreuses reprise permis de prendre part a de nombreux projets, les compétences sont : 
 
