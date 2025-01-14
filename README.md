@@ -64,6 +64,84 @@ Donner en retour à la communauté : Je suis motivé à contribuer au bien-être
 Compétences 📖​
 -
 
+# Compétences Techniques et Soft Skills
+
+## Compétences Techniques
+
+### 1. Développement multi-supports (embarqué, web, mobile, IoT…)
+
+#### Langages de programmation :
+- **C, C++** : systèmes embarqués
+- **Java, Kotlin** : Android mobile
+- **Swift** : iOS mobile
+- **HTML, CSS, JavaScript** : web
+- **Python** : IoT, embarqué, scripts
+- **Dart** : Flutter pour applications multiplateformes
+
+#### Frameworks et bibliothèques :
+- **React.js, Vue.js, Angular** : applications web interactives
+- **Node.js** : back-end web
+- **Flask, Django** : applications web Python
+- **Arduino, Raspberry Pi SDKs** : IoT et embarqué
+
+#### Technologies associées :
+- **REST, GraphQL** : API
+- **MQTT, CoAP** : protocoles IoT
+
+---
+
+### 2. Analyse et optimisation d'applications
+
+#### Analyse :
+- Outils d’analyse statique de code : **SonarQube**, **ESLint**
+- Profiler : **VisualVM**, **Valgrind**, **Perf** (Linux)
+
+#### Optimisation :
+- Patterns d’optimisation des performances : **lazy loading**, **caching**, etc.
+- Bases de données : **optimisation des requêtes SQL**, **indexation**
+- Gestion mémoire : **Garbage collection**, **Pointeurs intelligents (C++)**
+- Parallelisme et multithreading : **OpenMP**, **Threading en Python**
+
+#### Tests :
+- Unitaires : **JUnit**, **pytest**
+- Fonctionnels : **Selenium**, **Cypress**
+
+---
+
+### 3. Management d’une équipe informatique
+
+#### Gestion de projet :
+- **Méthodes classiques** :
+  - Cycle en V
+  - Modèle en cascade (Waterfall)
+- **Méthodes agiles** :
+  - Scrum (avec outils comme Jira, Trello)
+  - Kanban
+  - Extreme Programming (XP)
+
+#### Outils collaboratifs :
+- **Git** : gestion de versions, GitHub/GitLab pour collaboration
+- **Notion, Confluence** : documentation et suivi
+
+#### Gestion des équipes :
+- Pair programming
+- Code review (via GitHub/GitLab)
+
+---
+
+## Soft Skills
+
+### Compétences interpersonnelles :
+- **Communication** : capacité à expliquer des concepts techniques à des non-techniciens
+- **Leadership** : capacité à motiver et guider une équipe
+- **Collaboration** : travail efficace dans des équipes interdisciplinaires
+- **Résolution de problèmes** : aptitude à identifier des solutions techniques viables
+
+### Compétences organisationnelles :
+- **Gestion du temps** : priorisation des tâches dans un environnement de projet
+- **Adaptabilité** : flexibilité pour gérer différents projets et technologies
+
+
 #### Rappel de mes domaines d'expertise/de compétence
 
 Mes domaines d'expertise sont variée et m'on permis a de nombreuses reprise permis de prendre part a de nombreux projets, les compétences sont : 
