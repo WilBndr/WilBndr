@@ -65,6 +65,8 @@ Compétences 📖​
 -
 ## Compétences Techniques
 
+**Docker, Design pattern**
+
 ### 1. Développement multi-supports (embarqué, web, mobile, IoT…)
 
 #### Langages de programmation :
