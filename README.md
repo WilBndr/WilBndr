@@ -51,23 +51,17 @@ Développer des compétences en résolution de problèmes : Je souhaite amélior
 
 #### Objectifs personnels
 
-Équilibre vie professionnelle-vie personnelle : Je m'engage à maintenir un équilibre sain entre ma vie professionnelle et ma vie personnelle afin de préserver mon bien-être physique et mental, et de nourrir mes relations familiales et sociales.
-
 Développer des compétences de leadership : En parallèle de mes objectifs professionnels, je souhaite également développer mes compétences en leadership en prenant des initiatives, en encadrant d'autres étudiants, et en assumant des responsabilités au sein de projets et d'organisations estudiantines.
 
-Cultiver la curiosité intellectuelle : En dehors de mes études et de ma carrière professionnelle, je suis déterminé à cultiver ma curiosité intellectuelle en explorant des sujets variés, en lisant des livres, en écoutant des podcasts et en participant à des activités culturelles pour enrichir mon esprit et ma perspective sur le monde.
+Cultiver la curiosité : En dehors de mes études et de ma carrière professionnelle, je suis déterminé à cultiver ma curiosité intellectuelle en explorant des sujets variés, en lisant des livres, en écoutant des podcasts et en participant à des activités culturelles pour enrichir mon esprit et ma perspective sur le monde.
 
-Donner en retour à la communauté : Je suis motivé à contribuer au bien-être de la société en consacrant du temps et de l'énergie à des projets bénévoles et des initiatives sociales qui ont un impact positif sur ma communauté locale et mondiale.
+# Compétences 📖​
 
----
-
-Compétences 📖​
--
 ## Compétences Techniques
 
-**Docker, Design pattern**
+**Docker, Virtualisation, Design Patterns, SOLID**
 
-### 1. Développement multi-supports (embarqué, web, mobile, IoT…)
+### 1. Développement multi-supports (embarqué, web, mobile...)
 
 #### Langages de programmation :
 - **C, C++** : systèmes embarqués
@@ -75,51 +69,54 @@ Compétences 📖​
 - **Swift** : iOS mobile
 - **HTML, CSS, JavaScript** : web
 - **Python** : IoT, embarqué, scripts
-- **Dart** : Flutter pour applications multiplateformes
 
 #### Frameworks et bibliothèques :
 - **React.js, Vue.js, Angular** : applications web interactives
 - **Node.js** : back-end web
 - **Flask, Django** : applications web Python
-- **Arduino, Raspberry Pi SDKs** : IoT et embarqué
-
-#### Technologies associées :
-- **REST, GraphQL** : API
-- **MQTT, CoAP** : protocoles IoT
+- **Spring Boot, .NET Core** : développement back-end robuste
 
 ---
 
 ### 2. Analyse et optimisation d'applications
 
-#### Analyse :
+#### 🛠️ **Analyse** :
 - Outils d’analyse statique de code : **SonarQube**, **ESLint**
-- Profiler : **VisualVM**, **Valgrind**, **Perf** (Linux)
 
-#### Optimisation :
-- Patterns d’optimisation des performances : **lazy loading**, **caching**, etc.
-- Bases de données : **optimisation des requêtes SQL**, **indexation**
-- Gestion mémoire : **Garbage collection**, **Pointeurs intelligents (C++)**
-- Parallelisme et multithreading : **OpenMP**, **Threading en Python**
-
-#### Tests :
-- Unitaires : **JUnit**, **pytest**
-- Fonctionnels : **Selenium**, **Cypress**
+#### 🧪 **Tests** :
+- **Unitaires** : JUnit, pytest, Jest
 
 ---
 
-### 3. Management d’une équipe informatique
+### 3. Architecture et bonnes pratiques
 
-#### Gestion de projet :
-- **Méthodes classiques** :
-  - Cycle en V
-- **Méthodes agiles** :
-  - Scrum (avec outils comme Jira, Trello)
+#### 🏛️ **Conception logicielle**
+- **Design Patterns** : Singleton, Factory, Observer, MVC, etc.
+- **Principes SOLID** : Responsabilité unique, Ouvert/Fermé, Substitution de Liskov, etc.
+- **Modélisation UML** : Diagrammes de classes, séquence, use case
 
-#### Outils collaboratifs :
+#### ⚙️ **Outils DevOps et Virtualisation**
+- **Docker, Kubernetes** : Conteneurisation et orchestration
+- **Virtual Machines (VM)** : VirtualBox, VMWare, Proxmox
+- **CI/CD** : GitHub Actions, GitLab CI/CD
+
+#### 📌 **Méthodologies**
+- **Agile (Scrum, Kanban)** : Gestion de projet
+- **TDD, BDD** : Développement piloté par les tests
+
+---
+
+### 4. Management d’une équipe informatique
+
+#### 📊 **Gestion de projet** :
+- **Méthodes classiques** : Cycle en V
+- **Méthodes agiles** : Scrum (avec outils comme Jira, Trello)
+
+#### 🛠️ **Outils collaboratifs** :
 - **Git** : gestion de versions, GitHub/GitLab pour collaboration
 - **Notion, Confluence** : documentation et suivi
 
-#### Gestion des équipes :
+#### 🤝 **Gestion des équipes** :
 - Pair programming
 - Code review (via GitHub/GitLab)
 
@@ -137,38 +134,13 @@ Compétences 📖​
 - **Gestion du temps** : priorisation des tâches dans un environnement de projet
 - **Adaptabilité** : flexibilité pour gérer différents projets et technologies
 
-
-### Rappel de mes domaines d'expertise/de compétence
-
-Mes domaines d'expertise sont variée et m'on permis a de nombreuses reprise permis de prendre part a de nombreux projets, les compétences sont : 
-
-1. Développement d'application
-2. Graphisme numérique
-3. Recherche
-4. Communication
-5. Web Design
-6. Maintenance site web et réseaux
-
-Ce sont ces compétences qui m'ont permis d'étoffer un peu plus ma connaissance et mon savoir faire notamment en : Conception de logiciels, Analyse de données, Résolution de problèmes, travail en Équipe.
-
-> Une bonne partie des compétences cité ci dessus est justifié par une grande quantité de travail, j'ai pu dans ma carrière professionnel développer de nombreuses applications, je pense notamment a une application de gestion de score et de jeux. Le développement d'application nécessite d'être en équipe, un travail d'optimisation et de maintenance, une bonne communication et enfin un design travaillé ainsi qu'une  sécurité sans faille.
-
-#### Pourquoi ces compétences
-
-
-De part mon expertise de développeur, je peux réalisé différentes applications efficaces pour répondre à des besoins spécifiques.
-
-Mes compétences en graphisme numérique me permettent de créer des designs visuellement attrayants pour les applications et les sites web. Mes compétences en recherche, me permettent de trouver des solutions innovantes pour résoudre les défis technologiques qui peuvent survenir.
-
-Enfin, mes compétences en communication et en web design me permettent de concevoir et de gérer efficacement des sites web et des réseaux, ainsi que de communiquer clairement avec les autres membres de l'équipe pour assurer le bon fonctionnement d'une equipe de dévellopement.
-
 Qui suis je ​​🛰️​
 -
 
 #### Parcours 
 J'ai suivi une formation générale avec la spécialité mathématique ainsi qu'informatique au Lycée Georges Cabanis  (6 bd Henri de Jouvenel, 19100 Brive la Gaillarde). A la fin de laquelle j'ai obtenu mon baccalauréat avec la mention bien.
 
-Ensuite j'ai effectué un BUT informatique, je suis toujours cette formation. Elle me permet aujourd'hui d'avoir une connaissance du code et de la qualité de code extrêmement approfondis.
+Ensuite j'ai effectué un BUT informatique, je suis toujours cette formation. Elle me permet aujourd'hui d'avoir une connaissance du code et de la qualité de code approfondis et me permet d'etres operationel.
 
 #### Valeur
 Je suis convaincu que mes qualités personnelles et mes valeurs sont en adéquation avec les valeurs que souhaite une entreprise. Je suis un travailleur acharné et déterminé à atteindre les objectifs fixés. 
@@ -181,7 +153,7 @@ Je suis une personne communicative et collaborante, ce qui est essentiel pour tr
 
 Enfin, je suis une personne passionnée et enthousiaste qui est toujours prête à apprendre de nouvelles choses et à découvrir de nouveaux horizons.
 
-Mes différents projets ​​👷​
+Quelques projets ​​👷​
 -
 
 #### Projet personnel
@@ -241,4 +213,4 @@ Conclusion :
 Le développement du Jeu du Verger en Java avec JavaFX offre une opportunité d'explorer les concepts de programmation orientée objet, de gestion d'interface utilisateur et de logique de jeu tout en recréant un jeu de société classique de manière numérique et interactive avec des graphismes modernes et attrayants grâce à JavaFX.
 
 ---
-> Je tiens à exprimer ma sincère gratitude à tous les visiteurs de mon portfolio. Votre intérêt et votre soutien sont une source d'inspiration constante. Merci d'avoir pris le temps de découvrir mes projets et réalisations. Votre présence ici est grandement appréciée.
+> Je tiens à exprimer ma sincère gratitude à tous les visiteurs de mon portfolio. Merci d'avoir pris le temps de découvrir mes projets et réalisations. Votre présence ici est grandement appréciée.
