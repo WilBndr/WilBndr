@@ -57,8 +57,6 @@ Cultiver la curiosité : En dehors de mes études et de ma carrière professionn
 
 ## Compétences Techniques
 
-**Docker, Virtualisation, Design Patterns, SOLID**
-
 ### 1. Développement multi-supports (embarqué, web, mobile...)
 
 #### Langages de programmation :
