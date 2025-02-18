@@ -180,13 +180,6 @@ Technologies utilisées :
 
 Titre du projet : Le jeu du verger
 
-<div display="inline-block">
-    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/1696a64b-67f9-4e58-be5e-923bf9258d34" width="100%"/>
-    <img class="image" src="https://github.com/WilBndr/WilBndr/assets/126172260/04867d5d-9c38-4933-a82f-d1b2439cdb4d" width="100%"/>
-</div>
-
-<br><br/>
-
 Fonctionnalités principales :
 - Plateau de jeu interactif : Créer une représentation graphique du plateau de jeu en utilisant JavaFX, où les joueurs pourront interagir.
 - Gestion des fruits : Implémenter la mécanique de collecte des fruits par les joueurs à partir des différents arbres du verger, avec des animations graphiques pour représenter cette action.
